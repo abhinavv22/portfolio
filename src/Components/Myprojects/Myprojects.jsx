@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './Myprojects.css';
 import theme_pattern from '../../assets/theme_pattern.svg';
-import project_data from '../../assets/project_data';
+import project_data from '../../assets/project_Data';
 import arrow_icon from '../../assets/arrow_icon.svg';
 
 const Myprojects = () => {
