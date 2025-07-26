@@ -1,7 +1,7 @@
 import './Navbar.css';
 import React, { useState, useRef, useEffect } from 'react';
 import AnchorLink from 'react-anchor-link-smooth-scroll';
-import logo from '../../assets/logo_astro1.png';
+import logo from '../../assets/LOGO_astro1.png';
 import underlines from '../../assets/nav_underline.svg';
 import menu_open from '../../assets/menu_open.svg'
 import menu_close from '../../assets/menu_close.svg'
