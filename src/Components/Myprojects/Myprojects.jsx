@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './myprojects.css';
+import './Myprojects.css';
 import theme_pattern from '../../assets/theme_pattern.svg';
 import project_data from '../../assets/project_data';
 import arrow_icon from '../../assets/arrow_icon.svg';
