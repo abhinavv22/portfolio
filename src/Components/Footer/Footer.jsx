@@ -1,6 +1,6 @@
 import React from 'react';
 import './Footer.css';
-import footer_logo from '../../assets/logo_astro1.png';
+import footer_logo from '../../assets/LOGO_astro1.png';
 import github_logo from '../../assets/github_logo.svg';
 import instagram_logo from '../../assets/instagram_logo.svg';
 import linkedin_logo from '../../assets/linkedin_logo.svg';
